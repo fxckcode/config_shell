@@ -1,0 +1,7 @@
+set fish_greeting ""
+
+starship init fish | source 
+neofetch
+
+
+alias dev "cd /run/media/h4cknet/code-swap/"
